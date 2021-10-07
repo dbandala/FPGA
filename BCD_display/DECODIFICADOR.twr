@@ -1,0 +1,88 @@
+--------------------------------------------------------------------------------
+Release 14.6 Trace  (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.6\ISE_DS\ISE\bin\nt\unwrapped\trce.exe -intstyle ise -v 3 -s 4 -n
+3 -fastpaths -xml DECODIFICADOR.twx DECODIFICADOR.ncd -o DECODIFICADOR.twr
+DECODIFICADOR.pcf -ucf Nexys2_500General.ucf
+
+Design file:              DECODIFICADOR.ncd
+Physical constraint file: DECODIFICADOR.pcf
+Device,package,speed:     xc3s500e,fg320,-4 (PRODUCTION 1.27 2013-06-08)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+INFO:Timing:3390 - This architecture does not support a default System Jitter 
+   value, please add SYSTEM_JITTER constraint to the UCF to modify the Clock 
+   Uncertainty calculation.
+INFO:Timing:3389 - This architecture does not support 'Discrete Jitter' and 
+   'Phase Error' calculations, these terms will be zero in the Clock 
+   Uncertainty calculation.  Please make appropriate modification to 
+   SYSTEM_JITTER to account for the unsupported Discrete Jitter and Phase 
+   Error.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+BCD<0>         |disp<0>        |    6.405|
+BCD<0>         |disp<1>        |    6.819|
+BCD<0>         |disp<2>        |    6.796|
+BCD<0>         |disp<3>        |    7.164|
+BCD<0>         |disp<4>        |    7.165|
+BCD<0>         |disp<5>        |    6.764|
+BCD<0>         |disp<6>        |    7.033|
+BCD<1>         |disp<0>        |    6.703|
+BCD<1>         |disp<1>        |    7.062|
+BCD<1>         |disp<2>        |    7.959|
+BCD<1>         |disp<3>        |    8.269|
+BCD<1>         |disp<4>        |    8.328|
+BCD<1>         |disp<5>        |    7.072|
+BCD<1>         |disp<6>        |    7.396|
+BCD<2>         |disp<0>        |    7.740|
+BCD<2>         |disp<1>        |    7.990|
+BCD<2>         |disp<2>        |    7.543|
+BCD<2>         |disp<3>        |    7.846|
+BCD<2>         |disp<4>        |    7.912|
+BCD<2>         |disp<5>        |    7.942|
+BCD<2>         |disp<6>        |    8.393|
+BCD<3>         |disp<0>        |    7.067|
+BCD<3>         |disp<1>        |    7.274|
+BCD<3>         |disp<2>        |    7.552|
+BCD<3>         |disp<3>        |    7.893|
+BCD<3>         |disp<4>        |    7.921|
+BCD<3>         |disp<5>        |    7.257|
+BCD<3>         |disp<6>        |    7.755|
+---------------+---------------+---------+
+
+
+Analysis completed Thu May 18 10:42:58 2017 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 120 MB
+
+
+

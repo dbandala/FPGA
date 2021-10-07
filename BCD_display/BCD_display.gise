@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="BCD_display.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="DECODIFICADOR.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="DECODIFICADOR.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="DECODIFICADOR.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="DECODIFICADOR.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="DECODIFICADOR.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="DECODIFICADOR.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="DECODIFICADOR.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="DECODIFICADOR.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="DECODIFICADOR.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="DECODIFICADOR.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DECODIFICADOR.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="DECODIFICADOR.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="DECODIFICADOR.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="DECODIFICADOR.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="DECODIFICADOR.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="DECODIFICADOR.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="DECODIFICADOR.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="DECODIFICADOR.ut" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="DECODIFICADOR.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="DECODIFICADOR.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="DECODIFICADOR_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="DECODIFICADOR_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="DECODIFICADOR_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="DECODIFICADOR_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="DECODIFICADOR_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="DECODIFICADOR_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="DECODIFICADOR_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="DECODIFICADOR_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="DECODIFICADOR_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="DECODIFICADOR_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="DECODIFICADOR_par.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DECODIFICADOR_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="DECODIFICADOR_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="DECODIFICADOR_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="DECODIFICADOR_usage.xml"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DECODIFICADOR_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="DECODIFICADOR_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="decodificador.bgn" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_BIN" xil_pn:name="decodificador.bin"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BIT" xil_pn:name="decodificador.bit" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_DRC" xil_pn:name="decodificador.drc" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="usage_statistics_webtalk.html"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="webtalk.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1494818413" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1494818413">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1495082456" xil_pn:in_ck="-9198672209765778160" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1495082456">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="DECODIFICADOR.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122143" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1495122143">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122143" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-7631442413146825213" xil_pn:start_ts="1495122143">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122143" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-5260806043977195191" xil_pn:start_ts="1495122143">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122143" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1495122143">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122143" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-7728966884973661695" xil_pn:start_ts="1495122143">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122143" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-3893270297158069842" xil_pn:start_ts="1495122143">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122143" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="5780209269857955347" xil_pn:start_ts="1495122143">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122153" xil_pn:in_ck="-9198672209765778160" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="-8688412022839343546" xil_pn:start_ts="1495122143">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name=".lso"/>
+      <outfile xil_pn:name="DECODIFICADOR.lso"/>
+      <outfile xil_pn:name="DECODIFICADOR.ngc"/>
+      <outfile xil_pn:name="DECODIFICADOR.ngr"/>
+      <outfile xil_pn:name="DECODIFICADOR.prj"/>
+      <outfile xil_pn:name="DECODIFICADOR.stx"/>
+      <outfile xil_pn:name="DECODIFICADOR.syr"/>
+      <outfile xil_pn:name="DECODIFICADOR.xst"/>
+      <outfile xil_pn:name="DECODIFICADOR_stx_beh.prj"/>
+      <outfile xil_pn:name="DECODIFICADOR_vhdl.prj"/>
+      <outfile xil_pn:name="DECODIFICADOR_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122153" xil_pn:in_ck="-7824674185610353849" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-6236003516977859818" xil_pn:start_ts="1495122153">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122160" xil_pn:in_ck="-2772173864951805459" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="2456372380874399734" xil_pn:start_ts="1495122153">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="DECODIFICADOR.bld"/>
+      <outfile xil_pn:name="DECODIFICADOR.ngd"/>
+      <outfile xil_pn:name="DECODIFICADOR_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122165" xil_pn:in_ck="8747622070652327054" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="-5849673150125579957" xil_pn:start_ts="1495122160">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="DECODIFICADOR.pcf"/>
+      <outfile xil_pn:name="DECODIFICADOR_map.map"/>
+      <outfile xil_pn:name="DECODIFICADOR_map.mrp"/>
+      <outfile xil_pn:name="DECODIFICADOR_map.ncd"/>
+      <outfile xil_pn:name="DECODIFICADOR_map.ngm"/>
+      <outfile xil_pn:name="DECODIFICADOR_map.xrpt"/>
+      <outfile xil_pn:name="DECODIFICADOR_summary.xml"/>
+      <outfile xil_pn:name="DECODIFICADOR_usage.xml"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122179" xil_pn:in_ck="-9188493710482073401" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="-5563652517805085498" xil_pn:start_ts="1495122165">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="DECODIFICADOR.ncd"/>
+      <outfile xil_pn:name="DECODIFICADOR.pad"/>
+      <outfile xil_pn:name="DECODIFICADOR.par"/>
+      <outfile xil_pn:name="DECODIFICADOR.ptwx"/>
+      <outfile xil_pn:name="DECODIFICADOR.unroutes"/>
+      <outfile xil_pn:name="DECODIFICADOR.xpi"/>
+      <outfile xil_pn:name="DECODIFICADOR_pad.csv"/>
+      <outfile xil_pn:name="DECODIFICADOR_pad.txt"/>
+      <outfile xil_pn:name="DECODIFICADOR_par.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122191" xil_pn:in_ck="-9198672209765787037" xil_pn:name="TRANEXT_bitFile_spartan3e" xil_pn:prop_ck="-6910962151198979573" xil_pn:start_ts="1495122179">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="DECODIFICADOR.ut"/>
+      <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+      <outfile xil_pn:name="decodificador.bgn"/>
+      <outfile xil_pn:name="decodificador.bin"/>
+      <outfile xil_pn:name="decodificador.bit"/>
+      <outfile xil_pn:name="decodificador.drc"/>
+      <outfile xil_pn:name="usage_statistics_webtalk.html"/>
+      <outfile xil_pn:name="webtalk.log"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1495082909" xil_pn:in_ck="-6307323835835551283" xil_pn:name="TRAN_configureTargetDevice" xil_pn:prop_ck="5582947192412673156" xil_pn:start_ts="1495082908">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputChanged"/>
+    </transform>
+    <transform xil_pn:end_ts="1495122179" xil_pn:in_ck="767572615090067850" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1495122176">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="DECODIFICADOR.twr"/>
+      <outfile xil_pn:name="DECODIFICADOR.twx"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+    </transform>
+  </transforms>
+
+</generated_project>
