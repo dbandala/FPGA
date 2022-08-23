@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Armando Leyva\Desktop\qwerty\FPGA\TERCER PARCIAL\Controlador_Memoria\TOP_IMPLEMENTACION.ncd
+OUTFILE=C:\Users\Armando Leyva\Desktop\qwerty\FPGA\TERCER PARCIAL\Controlador_Memoria\TOP_IMPLEMENTACION.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=C:\Users\Armando Leyva\Desktop\qwerty\FPGA\TERCER PARCIAL\Controlador_Memoria
+LICENSE=WebPack
+USER_INFO=__0_0_0

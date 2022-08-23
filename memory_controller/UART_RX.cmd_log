@@ -1,0 +1,2 @@
+vhdtdtfi -lib work UART_RX.vhd -prj Controlador_Memoria -o UART_RX.spl -module UART_RX -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w UART_RX.spl {C:/Users/Armando Leyva/Desktop/qwerty/FPGA/TERCER PARCIAL/Controlador_Memoria/UART_RX.sym} 
