@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/POT04/Documents/FPGA/Variable_Senal/XOR_VAR_isim_beh.exe" -prj "C:/Users/POT04/Documents/FPGA/Variable_Senal/XOR_VAR_beh.prj" "work.XOR_VAR" 

@@ -1,0 +1,13 @@
+V3 6
+FL C:/Users/POT04/Documents/FPGA/Variable_Senal/XOR_SIG.vhd 2017/05/22.12:40:44 P.68d
+EN work/XOR_SIG 1495476006 \
+      FL C:/Users/POT04/Documents/FPGA/Variable_Senal/XOR_SIG.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/XOR_SIG/SIG_ARCH 1495476007 \
+      FL C:/Users/POT04/Documents/FPGA/Variable_Senal/XOR_SIG.vhd EN work/XOR_SIG 1495476006
+FL C:/Users/POT04/Documents/FPGA/Variable_Senal/XOR_VAR.vhd 2017/05/22.12:44:04 P.68d
+EN work/XOR_VAR 1495475063 \
+      FL C:/Users/POT04/Documents/FPGA/Variable_Senal/XOR_VAR.vhd \
+      PB ieee/std_logic_1164 1370735607
+AR work/XOR_VAR/VAR_ARCH 1495475064 \
+      FL C:/Users/POT04/Documents/FPGA/Variable_Senal/XOR_VAR.vhd EN work/XOR_VAR 1495475063
